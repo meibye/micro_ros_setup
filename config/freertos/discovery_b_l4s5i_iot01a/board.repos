@@ -1,0 +1,5 @@
+repositories:
+  freertos_apps:
+    type: git
+    url: file://home/michael/repos/freertos_apps
+    version: foxy
