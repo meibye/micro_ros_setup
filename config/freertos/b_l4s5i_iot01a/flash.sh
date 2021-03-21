@@ -1,4 +1,4 @@
-EXTENSIONS_DIR=$FW_TARGETDIR/freertos_apps/microros_discovery_b_l4s5i_iot01a_extensions
+EXTENSIONS_DIR=$FW_TARGETDIR/freertos_apps/microros_b_l4s5i_iot01a_extensions
 
 pushd $EXTENSIONS_DIR > /dev/null
 
