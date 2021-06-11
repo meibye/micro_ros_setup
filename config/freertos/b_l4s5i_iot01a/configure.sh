@@ -29,7 +29,7 @@ if [ "$UROS_TRANSPORT" == "udp" ]; then
 elif [ "$UROS_TRANSPORT" == "serial" ]; then
       echo "Using serial device USART."
 
-      echo "Please check firmware/freertos_apps/microros_nucleo_f746zg_extensions/Src/main.c"
+      echo "Please check firmware/freertos_apps/microros_b_l4s5i_iot01a_extensions/Src/main.c"
       echo "for configuring serial device before build."
 
       update_meta "microxrcedds_client" "UCLIENT_PROFILE_CUSTOM_TRANSPORT=ON"
